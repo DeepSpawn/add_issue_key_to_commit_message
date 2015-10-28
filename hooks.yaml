@@ -1,0 +1,6 @@
+-   id: issue-key
+    name: Issue key to commit message
+    description: Adds the issue key in the branch name to the commit message
+    entry: add_issue_key_to_commit_message.py
+    language: python
+    files: \.(*)$
